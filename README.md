@@ -8,7 +8,7 @@ The main page will slice the blogs to 100 words and you can click on "Read More"
 
 It also uses MongoDB to store data as seen in hyper terminal.
 
-There are "/about" "/contact" pages as well
+There are "/about" "/contact" pages as well on the site.
 
 # images
 
